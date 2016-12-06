@@ -1,4 +1,6 @@
 # R18 小說
+<https://www.gitbook.com/book/lin-buo-ren/r18>
+
 ## 作者
 林博仁 &lt;<Buo.Ren.Lin@gmail.com>&gt;
 
